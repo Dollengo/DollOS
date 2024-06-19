@@ -67,3 +67,5 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 ## Acknowledgements
 
 Special thanks to Dollengo (Tarcísio) for developing and maintaining this library.
+
+# [**About more**](https://github.com/Dollengo/DollOSlib/wiki)
