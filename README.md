@@ -7,6 +7,13 @@
 
 ## Overview
 
+
+| Version |    Support    |
+|---------| ------------- |
+|  v2.0   |   Linux/Win   |
+|  v1.2   |   Linux/Win   |
+
+
 This Python library offers a comprehensive set of commands and functionalities to manage server operations efficiently. Whether you need to manipulate files, execute system commands, monitor processes, or manage services, this library provides a versatile solution.
 
 ## Features
