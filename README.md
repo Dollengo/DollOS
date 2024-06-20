@@ -1,4 +1,5 @@
-# DollOS
+<h1 align="center">DollOS</h1>
+<h3 align="center">Library for Linux begginers.</h3>
 
 - **Attention: the source code don't have all archives because GitHub not agree import large archives, so, if you want download the library, download the [release version](https://github.com/Dollengo/DollOSlib/releases/tag/DollOS).**
 
