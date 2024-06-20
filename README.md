@@ -1,7 +1,11 @@
+
+![Captura de tela de 2024-06-20 20-44-35](https://github.com/Dollengo/DollOSlib/assets/131563888/ca0cb531-1089-4e02-b159-c1ae3223e1f0)
+
 <h1 align="center">DollOS</h1>
 <h3 align="center">Library for Linux begginers.</h3>
 
 [![Latest Release](https://img.shields.io/badge/RELEASE-v1.2-blue)][Download]
+[![Support](https://img.shields.io/badge/Patreon-Support_Me-orange.svg?logo=Patreon)][Patreon]
 
 - **Attention: the source code don't have all archives because GitHub not agree import large archives, so, if you want download the library, download the [release version](https://github.com/Dollengo/DollOSlib/releases/tag/DollOS).**
 
@@ -81,3 +85,4 @@ Special thanks to Dollengo (Tarcísio) for developing and maintaining this libra
 # [**About more**](https://github.com/Dollengo/DollOSlib/wiki)
 
 [Download]: (https://github.com/Dollengo/DollOSlib/releases/tag/DollOS)
+[Patreon]: (https://www.patreon.com/collection/608791)
