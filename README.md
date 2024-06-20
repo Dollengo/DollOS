@@ -1,6 +1,8 @@
 <h1 align="center">DollOS</h1>
 <h3 align="center">Library for Linux begginers.</h3>
 
+[![Latest Release](https://img.shields.io/badge/RELEASE-v1.2-blue)][Download]
+
 - **Attention: the source code don't have all archives because GitHub not agree import large archives, so, if you want download the library, download the [release version](https://github.com/Dollengo/DollOSlib/releases/tag/DollOS).**
 
 - This library, developed by Dollengo (Tarcísio), is intended for server management or to provide a user-friendly interface for console users. It's designed to be adaptable for constant updates by users and is licensed under the **MIT License**. It can be utilized on any type of computer operating system.
@@ -77,3 +79,5 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 Special thanks to Dollengo (Tarcísio) for developing and maintaining this library.
 
 # [**About more**](https://github.com/Dollengo/DollOSlib/wiki)
+
+[Download]: (https://github.com/Dollengo/DollOSlib/releases/tag/DollOS)
