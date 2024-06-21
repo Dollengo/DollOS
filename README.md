@@ -19,7 +19,7 @@
 
 | Version |    Download   |
 |---------| ------------- |
-|  v1.3   |    Building   |
+|  v1.3   |    Abaiable   |
 |  v1.2   |   Available   |
 |  v1.1   |   N-Available |
 |  v1.0   |   N-Available |
