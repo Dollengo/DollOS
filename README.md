@@ -1,3 +1,4 @@
+***
 
 ![Captura de tela de 2024-06-20 21-12-08](https://github.com/Dollengo/DollOSlib/assets/131563888/6225c3fc-7578-459f-96ef-212ad281bc39)
 
@@ -6,6 +7,8 @@
 
 [![Latest Release](https://img.shields.io/badge/RELEASE-v1.2-blue)][Download]
 [![Support](https://img.shields.io/badge/Patreon-Support_Me-orange.svg?logo=Patreon)][Patreon]
+
+***
 
 - **Attention: the source code don't have all archives because GitHub not agree import large archives, so, if you want download the library, download the [release version](https://github.com/Dollengo/DollOSlib/releases/tag/DollOS).**
 
