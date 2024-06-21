@@ -5,7 +5,7 @@
 <h1 align="center">DollOS</h1>
 <h3 align="center">Library for Linux beginners.</h3>
 
-[![Latest Release](https://img.shields.io/badge/RELEASE-v1.2-blue)][Download]
+[![Latest Release](https://img.shields.io/badge/RELEASE-v1.3-green)][Download]
 [![Support](https://img.shields.io/badge/Patreon-Support_Me-orange.svg?logo=Patreon)][Patreon]
 
 ***
@@ -13,16 +13,17 @@
 - **Attention: the source code don't have all archives because GitHub not agree import large archives, so, if you want download the library, download the [release version](https://github.com/Dollengo/DollOSlib/releases/tag/DollOS).**
 
 - This library, developed by Dollengo (Tarcísio), is intended for server management or to provide a user-friendly interface for console users. It's designed to be adaptable for constant updates by users and is licensed under the **MIT License**. It can be utilized on any type of computer operating system.
+- The main branch have the 1.2 release version.
 
 ## Overview
 
 
-| Version |    Download   |
-|---------| ------------- |
-|  v1.3   |    Abaiable   |
-|  v1.2   |   Available   |
-|  v1.1   |   N-Available |
-|  v1.0   |   N-Available |
+| Version |   Download  |
+|---------|-------------|
+|  v1.3   |  Available   |
+|  v1.2   |  Available   |
+|  v1.1   |  N-Available |
+|  v1.0   |  N-Available |
 
 
 This Python library offers a comprehensive set of commands and functionalities to manage server operations efficiently. Whether you need to manipulate files, execute system commands, monitor processes, or manage services, this library provides a versatile solution.
@@ -81,7 +82,7 @@ Contributions to this library are welcome. Feel free to fork the repository, mak
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ## Acknowledgements
 
