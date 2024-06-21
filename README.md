@@ -1,8 +1,8 @@
 
-![Captura de tela de 2024-06-20 20-44-35](https://github.com/Dollengo/DollOSlib/assets/131563888/ca0cb531-1089-4e02-b159-c1ae3223e1f0)
+![Captura de tela de 2024-06-20 21-12-08](https://github.com/Dollengo/DollOSlib/assets/131563888/6225c3fc-7578-459f-96ef-212ad281bc39)
 
 <h1 align="center">DollOS</h1>
-<h3 align="center">Library for Linux begginers.</h3>
+<h3 align="center">Library for Linux beginners.</h3>
 
 [![Latest Release](https://img.shields.io/badge/RELEASE-v1.2-blue)][Download]
 [![Support](https://img.shields.io/badge/Patreon-Support_Me-orange.svg?logo=Patreon)][Patreon]
