@@ -21,8 +21,8 @@
 |---------| ------------- |
 |  v1.3   |    Building   |
 |  v1.2   |   Available   |
-|  v1.1   |  Non-existent |
-|  v1.0   |  Non-existent |
+|  v1.1   |   N-Available |
+|  v1.0   |   N-Available |
 
 
 This Python library offers a comprehensive set of commands and functionalities to manage server operations efficiently. Whether you need to manipulate files, execute system commands, monitor processes, or manage services, this library provides a versatile solution.
