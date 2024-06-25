@@ -13,7 +13,7 @@ sudo pip install datetime psutil rich pandas
 
 echo "Starting..."
 echo "Package: DollOS
-Version: 1.2
+Version: 1.3
 Section: base
 Priority: optional
 Architecture: all
