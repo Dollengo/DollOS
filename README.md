@@ -5,7 +5,7 @@
 <h1 align="center">DollOS</h1>
 <h3 align="center">Library for Linux beginners.</h3>
 
-[![Latest Release](https://img.shields.io/badge/RELEASE-v1.3-green)][Download]
+[![Latest Release](https://img.shields.io/badge/RELEASE-v2.1-green)][Download]
 [![Support](https://img.shields.io/badge/Patreon-Support_Me-orange.svg?logo=Patreon)][Patreon]
 
 ***
@@ -17,8 +17,10 @@
 ## Overview
 
 
-| Version |   Download  |
+| Version |  Download  |
 |---------|-------------|
+|  v2.1   |  Available   |
+|  v2.0   |  Available   |
 |  v1.3   |  Available   |
 |  v1.2   |  Available   |
 |  v1.1   |  N-Available |
@@ -53,6 +55,12 @@ The library offers a user-friendly interface with clear commands and rich format
 ## Usage
 
 To use any command, simply type it in the console prompt. For commands that require additional arguments, follow the specified syntax.
+For apps in desktop use only the name.
+- The desktop apps:
+    - DollPyCode
+    - DollNotePad
+    - DollAI
+    - Settings
 
 Example:
 - .list
@@ -68,12 +76,13 @@ Example:
 - .datetime
 - .history
 - .usage
+-[etc...]
 
 Please note that some commands may not be available or fully implemented, as indicated in the help text.
 
 ## Installation
 
-To use this library, simply clone the repository and import the relevant modules into your Python script. Make sure to install any dependencies listed in the `requirements.txt` file. After this, start the `setup.sh` or ```bash  python DollOS.py```.
+To use this library, simply clone the repository and import the relevant modules into your Python script. Make sure to install any dependencies listed in the `deb-description.txt` file. After this, start the `setup.sh` or ```bash  python DollOS.py```.
 
 ## Contribution
 
@@ -87,7 +96,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 Special thanks to Dollengo (Tarcísio) for developing and maintaining this library.
 
-# [**About more**](https://github.com/Dollengo/DollOSlib/wiki)
+# --------------> READ THE WIKI, THAT YOU WILL FOUND MORE INFORMATIONS FROM THE LIBRARY!!! <--------------
+## [**About more**](https://github.com/Dollengo/DollOSlib/wiki)
 
 [Download]: (https://github.com/Dollengo/DollOSlib/releases/tag/DollOS)
 [Patreon]: (https://www.patreon.com/collection/608791)
