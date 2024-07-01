@@ -16,6 +16,8 @@
 
 - This software, developed by Tarcísio (dollengo), is intended for server management or to provide a user-friendly interface for console users. It's designed to be adaptable for constant updates by users and is licensed under the **MIT License**. It can be utilized on any type of computer operating system.
 
+- The [**main file**](./src/system/main/DollOS.py)
+
 ## Overview
 
 
