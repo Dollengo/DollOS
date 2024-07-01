@@ -5,6 +5,15 @@
 <h1 align="center">DollOS</h1>
 <h3 align="center">Software for Linux beginners.</h3>
 
+<p align='center'>
+ <a href="https://github.com/sponsors/alexandresanlim">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dollengo/dollos?style=for-the-badge">
+</a>&nbsp;&nbsp;
+</p>
+
 [![Latest Release](https://img.shields.io/badge/RELEASE-v2.1-green)][Download]
 [![Support](https://img.shields.io/badge/Patreon-Support_Me-orange.svg?logo=Patreon)][Patreon]
 
