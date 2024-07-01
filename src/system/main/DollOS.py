@@ -1,4 +1,4 @@
-# Made by Dollengo(Tarcísio); github.com/dollengo
+# Made by Dollengo(Tarcísio); github.com/dollengo/dollos
 
 import random
 from binrobotdollos import *
@@ -810,4 +810,4 @@ if __name__ == "__main__":
     main_loop()
 
 
-# Made by Dollengo(Tarcísio); github.com/dollengo
+# Made by Dollengo(Tarcísio); github.com/dollengo/dollos
