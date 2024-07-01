@@ -59,7 +59,7 @@ To use DollOS, follow these steps:
    - DollOS includes functionalities for managing files, directories, system processes, and environment variables. Users can explore and practice various Linux-like operations within this simulated environment.
 
 6. **Report:**
-    - Any bug or any incompatibility with any Linux dist. Report in `https://github.com/Dollengo/DollOSlib/issues`.
+    - Any bug or any incompatibility with any Linux dist. Report in `https://github.com/Dollengo/DollOS/issues`.
     - Generally, all bugs or imcompatibility issues only have in Windows.
 
     - OS approved:
@@ -83,10 +83,10 @@ To use DollOS, follow these steps:
 
 ## Development Information
 
-- **Language:** DollOS library is developed in Python.
+- **Language:** DollOS is developed in Python.
 - **Libraries Used:** It utilizes libraries such as `datetime`, `psutil`, `rich`, and `pandas` for various functionalities.
 - **Maintainer:** DollOS is maintained by Tarcisio <dollengo@outlook.com>.
-- **Source:** The source code and additional information can be found at [GitHub - DollOS](https://github.com/dollengo/dolloslib).
+- **Source:** The source code and additional information can be found at [GitHub - DollOS](https://github.com/dollengo/dollos).
 
 ## Feedback and Contributions
 
