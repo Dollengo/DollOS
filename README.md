@@ -6,7 +6,7 @@
 <h3 align="center">Software for Linux beginners.</h3>
 
 <p align='center'>
- <a href="https://github.com/sponsors/Dollengo">
+ <a href="https://ko-fi.com/dollengo">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
   </a>&nbsp;&nbsp;
   <a href="#">
