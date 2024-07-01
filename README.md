@@ -57,10 +57,10 @@ The library offers a user-friendly interface with clear commands and rich format
 To use any command, simply type it in the console prompt. For commands that require additional arguments, follow the specified syntax.
 For apps in desktop use only the name.
 - The desktop apps:
-    - DollPyCode
-    - DollNotePad
-    - DollAI
-    - Settings
+    - DollPyCode: A simple IDE to programming your apps.
+    - DollNotePad: A simple Notepad to save your notes.
+    - DollAI: A assistant to support you quickly.
+    - Settings: Just settings, configurations.
 
 Example:
 - .list
