@@ -1,20 +1,20 @@
 ***
 
-![Captura de tela de 2024-06-20 21-12-08](https://github.com/Dollengo/DollOSlib/assets/131563888/6225c3fc-7578-459f-96ef-212ad281bc39)
+![Captura de tela de 2024-06-20 21-12-08](https://github.com/Dollengo/DollOS/assets/131563888/6225c3fc-7578-459f-96ef-212ad281bc39)
 
 <h1 align="center">DollOS</h1>
-<h3 align="center">Library for Linux beginners.</h3>
+<h3 align="center">Software for Linux beginners.</h3>
 
 [![Latest Release](https://img.shields.io/badge/RELEASE-v2.1-green)][Download]
 [![Support](https://img.shields.io/badge/Patreon-Support_Me-orange.svg?logo=Patreon)][Patreon]
 
 ***
 
-- **Attention: the source code don't have all archives because GitHub not agree import large archives, so, if you want download the library, download the [release version](https://github.com/Dollengo/DollOSlib/releases/tag/DollOS).**
+- **Attention: the source code don't have all archives because GitHub not agree import large archives, so, if you want download the rary, download the [release version](https://github.com/Dollengo/DollOS/releases/tag/DollOS).**
 
 - Resume: It's a software to support you to use linux, if you is an beginner in Linux OS, just use.
 
-- This library, developed by Dollengo (Tarcísio), is intended for server management or to provide a user-friendly interface for console users. It's designed to be adaptable for constant updates by users and is licensed under the **MIT License**. It can be utilized on any type of computer operating system.
+- This software, developed by Tarcísio (dollengo), is intended for server management or to provide a user-friendly interface for console users. It's designed to be adaptable for constant updates by users and is licensed under the **MIT License**. It can be utilized on any type of computer operating system.
 
 ## Overview
 
@@ -29,7 +29,7 @@
 |  v1.0   |  N-Available |
 
 
-This Python library offers a comprehensive set of commands and functionalities to manage server operations efficiently. Whether you need to manipulate files, execute system commands, monitor processes, or manage services, this library provides a versatile solution.
+This Python software offers a comprehensive set of commands and functionalities to manage server operations efficiently. Whether you need to manipulate files, execute system commands, monitor processes, or manage services, this software provides a versatile solution.
 
 ## Features
 
@@ -52,7 +52,7 @@ This Python library offers a comprehensive set of commands and functionalities t
 
 ### User-Friendly Interface
 
-The library offers a user-friendly interface with clear commands and rich formatting of messages using the `rich` library.
+The software offers a user-friendly interface with clear commands and rich formatting of messages using the `rich` software.
 
 ## Usage
 
@@ -84,11 +84,11 @@ Please note that some commands may not be available or fully implemented, as ind
 
 ## Installation
 
-To use this library, simply clone the repository and import the relevant modules into your Python script. Make sure to install any dependencies listed in the `deb-description.txt` file. After this, start the `setup.sh` or ```bash  python DollOS.py```.
+To use this software, simply clone the repository and import the relevant modules into your Python script. Make sure to install any dependencies listed in the `deb-description.txt` file. After this, start the `setup.sh` or ```bash  python DollOS.py```.
 
 ## Contribution
 
-Contributions to this library are welcome. Feel free to fork the repository, make improvements, and submit pull requests. Please adhere to the code style and documentation conventions.
+Contributions to this software are welcome. Feel free to fork the repository, make improvements, and submit pull requests. Please adhere to the code style and documentation conventions.
 
 ## License
 
@@ -96,10 +96,10 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Acknowledgements
 
-Special thanks to Dollengo (Tarcísio) for developing and maintaining this library.
+Special thanks to Dollengo (Tarcísio) for developing and maintaining this software.
 
-# --------------> READ THE WIKI, THAT YOU WILL FOUND MORE INFORMATIONS FROM THE LIBRARY!!! <--------------
-## [**About more**](https://github.com/Dollengo/DollOSlib/wiki)
+# --------------> READ THE WIKI, THAT YOU WILL FOUND MORE INFORMATIONS FROM THE SOFTWARE!!! <--------------
+## [**About more**](https://github.com/Dollengo/DollOS/wiki)
 
-[Download]: (https://github.com/Dollengo/DollOSlib/releases/tag/DollOS)
+[Download]: (https://github.com/Dollengo/DollOS/releases/tag/DollOS)
 [Patreon]: (https://www.patreon.com/collection/608791)
